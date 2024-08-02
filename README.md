@@ -1,4 +1,4 @@
-# Discord Embed Sender
+# Discord Embed Sender v1.0.0
 
 A PyQt5 application for sending Discord embeds via webhook.
 
@@ -54,6 +54,13 @@ To run the application:
     - Add fields as necessary by clicking "Add Field".
     - Click "Send Embed" to send the embed to your Discord server.
 
+
+
+![Screenshot](screenshot.png)
+
+
+
+
 ## Troubleshooting
 
 Here are some common issues and solutions:
@@ -91,4 +98,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [PyQt5](https://pypi.org/project/PyQt5/)
 - [Requests](https://pypi.org/project/requests/)
 - [Discord Webhooks](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+- 
 
