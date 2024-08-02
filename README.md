@@ -1,6 +1,8 @@
 # Discord Embed Sender v1.0.0
 
 ![Screenshot](/screenshot.png)
+![image](https://github.com/user-attachments/assets/35db0e35-f757-4e72-8ff9-8a64dbbd6b3a)
+
 
 A PyQt5 application for sending Discord embeds via webhook.
 
