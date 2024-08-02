@@ -1,4 +1,3 @@
-#WEBHOOK_URL = 'https://discord.com/api/webhooks/1268745661914812497/jQkVNUNrvrv1zC-gIXkPb2bIeWpGH0FJdazKyB4M8djRGEWy2692qna3jqxZjGEp6fzj'
 import sys
 import json
 import requests
