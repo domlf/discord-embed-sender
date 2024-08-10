@@ -101,5 +101,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [PyQt5](https://pypi.org/project/PyQt5/)
 - [Requests](https://pypi.org/project/requests/)
 - [Discord Webhooks](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
-- 
+
 
