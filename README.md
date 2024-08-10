@@ -94,7 +94,8 @@ Here are some common issues and solutions:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+  [![HitCount](https://hits.dwyl.com/domlf/discord-embed-sender.svg?style=flat-square&show=unique)](http://hits.dwyl.com/domlf/discord-embed-sender)
+  
 
 - [Python](https://www.python.org/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
