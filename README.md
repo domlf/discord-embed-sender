@@ -96,6 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
   [![HitCount](https://hits.dwyl.com/domlf/discord-embed-sender.svg?style=flat-square&show=unique)](http://hits.dwyl.com/domlf/discord-embed-sender)
    [![HitCount](https://hits.dwyl.com/domlf/discord-embed-sender.svg?style=flat-square)](http://hits.dwyl.com/domlf/discord-embed-sender)
+   ![Visitor Count](https://hits.dwyl.com/domlf/domlf.svg)
    
 - [Python](https://www.python.org/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
